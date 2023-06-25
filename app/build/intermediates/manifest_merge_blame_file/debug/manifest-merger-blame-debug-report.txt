@@ -1,0 +1,287 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.teletype.truckchat"
+4    android:installLocation="auto"
+5    android:versionCode="18"
+6    android:versionName="1.0.10.9" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="16"
+9-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+10        android:targetSdkVersion="31" />
+10-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+12-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:6:5-80
+12-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:6:22-78
+13    <uses-permission android:name="android.permission.INTERNET" />
+13-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:7:5-66
+13-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:7:22-64
+14    <uses-permission android:name="android.permission.WAKE_LOCK" />
+14-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:8:5-67
+14-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:8:22-65
+15    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+15-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:9:5-78
+15-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:9:22-76
+16    <uses-permission android:name="android.permission.VIBRATE" />
+16-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:10:5-65
+16-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:10:22-63
+17    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+17-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:11:5-81
+17-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:11:22-79
+18
+19    <application
+19-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:15:5-97:19
+20        android:name="com.teletype.truckchat.MyApplication"
+20-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:16:9-38
+21        android:allowBackup="true"
+21-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:17:9-35
+22        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+22-->[androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+23        android:debuggable="true"
+24        android:icon="@mipmap/ic_launcher"
+24-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:18:9-43
+25        android:label="@string/app_name"
+25-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:19:9-41
+26        android:testOnly="true"
+27        android:theme="@style/AppTheme" >
+27-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:20:9-40
+28        <activity
+28-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:21:9-31:20
+29            android:name="com.teletype.truckchat.ui.conversations.ConversationsActivity"
+29-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:22:13-67
+30            android:exported="true"
+30-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:25:13-36
+31            android:label="@string/app_name"
+31-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:23:13-45
+32            android:launchMode="singleTop" >
+32-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:24:13-43
+33            <intent-filter>
+33-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:26:13-30:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:27:17-68
+34-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:27:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:29:17-76
+36-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:29:27-74
+37            </intent-filter>
+38        </activity>
+39        <activity
+39-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:32:9-39:20
+40            android:name="com.teletype.truckchat.ui.conversations.NewConversationActivity"
+40-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:33:13-69
+41            android:label="@string/app_name"
+41-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:34:13-45
+42            android:parentActivityName="com.teletype.truckchat.ui.conversations.ConversationsActivity" >
+42-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:35:13-81
+43            <meta-data
+43-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:36:13-38:96
+44                android:name="android.support.PARENT_ACTIVITY"
+44-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:37:17-63
+45                android:value="com.teletype.truckchat.ui.conversations.ConversationsActivity" />
+45-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:38:17-94
+46        </activity>
+47        <activity
+47-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:40:9-48:20
+48            android:name="com.teletype.truckchat.ui.replies.RepliesActivity"
+48-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:41:13-55
+49            android:label="@string/app_name"
+49-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:42:13-45
+50            android:parentActivityName="com.teletype.truckchat.ui.conversations.ConversationsActivity"
+50-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:43:13-81
+51            android:windowSoftInputMode="adjustResize|stateHidden" >
+51-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:44:13-67
+52            <meta-data
+52-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:36:13-38:96
+53                android:name="android.support.PARENT_ACTIVITY"
+53-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:37:17-63
+54                android:value="com.teletype.truckchat.ui.conversations.ConversationsActivity" />
+54-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:38:17-94
+55        </activity>
+56        <activity
+56-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:49:9-51:56
+57            android:name="com.teletype.truckchat.ui.settings.SettingsPreferenceActivity"
+57-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:50:13-67
+58            android:label="@string/app_name_settings" />
+58-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:51:13-54
+59        <activity
+59-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:52:9-54:47
+60            android:name="com.teletype.truckchat.ui.common.InterWebActivity"
+60-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:53:13-55
+61            android:label="@string/app_name" />
+61-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:54:13-45
+62
+63        <provider
+63-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:56:9-60:39
+64            android:name="com.teletype.truckchat.db.ConversationContentProvider"
+64-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:57:13-59
+65            android:authorities="com.teletype.truckchat.provider.conversations"
+65-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:58:13-80
+66            android:enabled="true"
+66-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:59:13-35
+67            android:exported="false" />
+67-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:60:13-37
+68        <provider
+68-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:61:9-65:39
+69            android:name="com.teletype.truckchat.db.RoadClosureContentProvider"
+69-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:62:13-58
+70            android:authorities="com.teletype.truckchat.provider.road_closures"
+70-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:63:13-80
+71            android:enabled="true"
+71-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:64:13-35
+72            android:exported="false" />
+72-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:65:13-37
+73
+74        <service
+74-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:67:9-73:19
+75            android:name="com.teletype.truckchat.services.MyFcmListenerService"
+75-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:68:13-58
+76            android:exported="true" >
+76-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:69:13-36
+77            <intent-filter>
+77-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:70:13-72:29
+78                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+78-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:17-78
+78-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:25-75
+79            </intent-filter>
+80        </service>
+81        <service
+81-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:74:9-80:19
+82            android:name="com.teletype.truckchat.services.MyInstanceIDListenerService"
+82-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:75:13-65
+83            android:exported="true" >
+83-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:76:13-36
+84            <intent-filter>
+84-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:77:13-79:29
+85                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+85-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:17-80
+85-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:25-77
+86            </intent-filter>
+87        </service>
+88        <service
+88-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:81:9-83:39
+89            android:name="com.teletype.truckchat.services.RegistrationIntentService"
+89-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:82:13-63
+90            android:exported="false" />
+90-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:83:13-37
+91        <service
+91-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:84:9-87:39
+92            android:name="com.teletype.truckchat.services.LocationUpdateService"
+92-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:85:13-59
+93            android:enabled="true"
+93-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:86:13-35
+94            android:exported="false" />
+94-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:87:13-37
+95
+96        <meta-data
+96-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:89:9-91:68
+97            android:name="com.google.android.gms.version"
+97-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:90:13-58
+98            android:value="@integer/google_play_services_version" />
+98-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:91:13-66
+99
+100        <service
+100-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:93:9-96:19
+101            android:name="com.teletype.truckchat.services.RoadClosuresIntentService"
+101-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:94:13-63
+102            android:exported="false" >
+102-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:95:13-37
+103        </service>
+104        <!--
+105             FirebaseMessagingService performs security checks at runtime,
+106             no need for explicit permissions despite exported="true"
+107        -->
+108        <service
+108-->[com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:28:9-34:19
+109            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+109-->[com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:29:13-82
+110            android:exported="true" >
+110-->[com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:30:13-36
+111            <intent-filter android:priority="-500" >
+111-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:70:13-72:29
+112                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+112-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:17-78
+112-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:25-75
+113            </intent-filter>
+114        </service> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+115        <activity
+115-->[com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:29:9-33:64
+116            android:name="com.google.android.gms.ads.AdActivity"
+116-->[com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:30:13-65
+117            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+117-->[com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:31:13-122
+118            android:exported="false"
+118-->[com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:32:13-37
+119            android:theme="@android:style/Theme.Translucent" />
+119-->[com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:33:13-61
+120
+121        <service
+121-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:29:9-35:19
+122            android:name="com.google.firebase.components.ComponentDiscoveryService"
+122-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:30:13-84
+123            android:exported="false" >
+123-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:31:13-37
+124            <meta-data
+124-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:32:13-34:85
+125                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+125-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:33:17-96
+126                android:value="com.google.firebase.components.ComponentRegistrar" />
+126-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:34:17-82
+127        </service>
+128
+129        <receiver
+129-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:37:9-44:20
+130            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+130-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:38:13-78
+131            android:exported="true"
+131-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:39:13-36
+132            android:permission="com.google.android.c2dm.permission.SEND" >
+132-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:40:13-73
+133            <intent-filter>
+133-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:41:13-43:29
+134                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+134-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:17-81
+134-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:25-78
+135            </intent-filter>
+136        </receiver>
+137        <!--
+138             FirebaseInstanceIdService performs security checks at runtime,
+139             no need for explicit permissions despite exported="true"
+140        -->
+141        <service
+141-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:50:9-56:19
+142            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+142-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:51:13-77
+143            android:exported="true" >
+143-->[com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:52:13-36
+144            <intent-filter android:priority="-500" >
+144-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:77:13-79:29
+145                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+145-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:17-80
+145-->/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:25-77
+146            </intent-filter>
+147        </service>
+148
+149        <activity
+149-->[com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+150            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+150-->[com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+151            android:exported="false"
+151-->[com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+152            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+152-->[com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+153
+154        <provider
+154-->[com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+155            android:name="com.google.firebase.provider.FirebaseInitProvider"
+155-->[com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77
+156            android:authorities="com.teletype.truckchat.firebaseinitprovider"
+156-->[com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+157            android:exported="false"
+157-->[com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+158            android:initOrder="100" />
+158-->[com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+159    </application>
+160
+161</manifest>

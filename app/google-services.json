@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "609337871587",
+    "firebase_url": "https://truckchat-2aaaf.firebaseio.com",
+    "project_id": "truckchat-2aaaf"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609337871587:android:a2e52014c5cea00a",
+        "android_client_info": {
+          "package_name": "com.teletype.truckchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609337871587-vqbmb9al75kncp3smovabrsvf48nturf.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "609337871587-8gdnqm8s5u7mv6u3pktk153n37bor7i9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "609337871587-8gdnqm8s5u7mv6u3pktk153n37bor7i9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRAGtH0UyEUnfEdRBFlPuoXaFgJRY5svM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

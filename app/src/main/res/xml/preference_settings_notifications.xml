@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_chat_tone"
+        android:summary="@string/pref_summary_chat_tone_on"
+        android:title="@string/pref_title_chat_tone" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_notification"
+        android:summary="@string/pref_summary_notification_on"
+        android:title="@string/pref_title_notification" />
+
+    <RingtonePreference
+        android:defaultValue="content://settings/system/notification_sound"
+        android:key="pref_notification_ringtone"
+        android:ringtoneType="notification|alarm"
+        android:showDefault="true"
+        android:showSilent="true"
+        android:summary="@string/pref_summary_notification_ringtone_on"
+        android:title="@string/pref_title_notification_ringtone" />
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_notification_vibrate"
+        android:summary="@string/pref_summary_notification_vibrate_on"
+        android:title="@string/pref_title_notification_vibrate" />
+
+</PreferenceScreen>

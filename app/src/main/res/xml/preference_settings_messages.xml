@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <EditTextPreference
+        android:defaultValue=""
+        android:key="pref_message_prefix"
+        android:summary="@string/pref_summary_handle_default"
+        android:title="@string/pref_title_handle" />
+    <Preference
+        android:key="pref_avatar"
+        android:summary="Avatar"
+        android:title="Choose avatar" />
+
+</PreferenceScreen>

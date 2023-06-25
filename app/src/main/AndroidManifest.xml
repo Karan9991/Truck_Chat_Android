@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest package="com.teletype.truckchat"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+          android:installLocation="auto">
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.WAKE_LOCK"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
+
+
+
+    <application
+        android:name=".MyApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".ui.conversations.ConversationsActivity"
+            android:label="@string/app_name"
+            android:launchMode="singleTop"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".ui.conversations.NewConversationActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".ui.conversations.ConversationsActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.teletype.truckchat.ui.conversations.ConversationsActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.replies.RepliesActivity"
+            android:label="@string/app_name"
+            android:parentActivityName=".ui.conversations.ConversationsActivity"
+            android:windowSoftInputMode="adjustResize|stateHidden">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.teletype.truckchat.ui.conversations.ConversationsActivity"/>
+        </activity>
+        <activity
+            android:name=".ui.settings.SettingsPreferenceActivity"
+            android:label="@string/app_name_settings"/>
+        <activity
+            android:name=".ui.common.InterWebActivity"
+            android:label="@string/app_name"/>
+
+        <provider
+            android:name=".db.ConversationContentProvider"
+            android:authorities="com.teletype.truckchat.provider.conversations"
+            android:enabled="true"
+            android:exported="false"/>
+        <provider
+            android:name=".db.RoadClosureContentProvider"
+            android:authorities="com.teletype.truckchat.provider.road_closures"
+            android:enabled="true"
+            android:exported="false"/>
+
+        <service
+            android:name=".services.MyFcmListenerService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".services.MyInstanceIDListenerService"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+        <service
+            android:name=".services.RegistrationIntentService"
+            android:exported="false"/>
+        <service
+            android:name=".services.LocationUpdateService"
+            android:enabled="true"
+            android:exported="false"/>
+
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version"/>
+
+        <service
+            android:name=".services.RoadClosuresIntentService"
+            android:exported="false">
+        </service>
+    </application>
+
+</manifest>

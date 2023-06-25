@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ui.replies.RepliesActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin_half"
+        android:layout_marginRight="@dimen/activity_horizontal_margin_half"
+        android:layout_marginTop="@dimen/activity_vertical_margin_half"
+        android:background="@drawable/background_topics"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/repliesActivity_imageView_icon"
+            android:layout_width="24dp"
+            android:layout_height="24dp"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/ic_action_chat"/>
+
+        <TextView
+            android:id="@+id/repliesActivity_textView_topic"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:textAlignment="center"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textStyle="italic"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:id="@+id/repliesActivity_frameLayout_replies"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        tools:context=".ui.replies.RepliesFragment"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/activity_horizontal_margin_half"
+        android:layout_marginRight="@dimen/activity_horizontal_margin_half"
+        android:background="@drawable/background_compose"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingBottom="@dimen/activity_vertical_margin_half"
+        android:paddingTop="@dimen/activity_vertical_margin_half">
+
+        <ImageView
+            android:id="@+id/repliesActivity_imageView_speak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_compose"
+            android:src="@drawable/ic_action_mic"
+            android:visibility="gone"/>
+
+        <ImageView
+            android:id="@+id/repliesActivity_imageView_nospeak"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ic_menu_start_conversation" />
+
+        <EditText
+            android:id="@+id/repliesActivity_editText_compose"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="1"
+            android:ems="10"
+            android:hint="@string/compose_message"
+            android:inputType="textMultiLine"/>
+
+        <ImageView
+            android:id="@+id/repliesActivity_imageView_send"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_compose"
+            android:src="@drawable/ic_action_send_now" />
+
+        <ProgressBar
+            android:id="@+id/repliesActivity_progressBar_sending"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/tt_color_background_complement"
+        android:paddingBottom="1dp"
+        android:paddingTop="1dp">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/repliesActivity_adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:visibility="gone"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/admob_id_replies_activity"/>
+
+    </FrameLayout>
+
+</LinearLayout>

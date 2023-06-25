@@ -1,0 +1,111 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.teletype.truckchat.app-mergeDebugResources-15:/values-lo/values-lo.xml",
+            "map": [
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "205",
+                        "endColumns": "99",
+                        "endOffsets": "304"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "2848",
+                        "endColumns": "103",
+                        "endOffsets": "2947"
+                    }
+                },
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "190",
+                        "endOffsets": "437"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1279",
+                        "endColumns": "190",
+                        "endOffsets": "1465"
+                    }
+                },
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/43274fd4d8ee4528a0f29241ffe97142/transformed/jetified-play-services-ads-16.0.0/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,266,374,438,503,578,675",
+                        "endColumns": "68,107,63,64,74,96,69",
+                        "endOffsets": "265,373,437,502,577,674,744"
+                    },
+                    "to": {
+                        "startLines": "22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "3053,3126,3238,3306,3375,3454,3555",
+                        "endColumns": "72,111,67,68,78,100,73",
+                        "endOffsets": "3121,3233,3301,3370,3449,3550,3624"
+                    }
+                },
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "190",
+                        "endColumns": "96",
+                        "endOffsets": "286"
+                    },
+                    "to": {
+                        "startLines": "21",
+                        "startColumns": "4",
+                        "startOffsets": "2952",
+                        "endColumns": "100",
+                        "endOffsets": "3048"
+                    }
+                },
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/res/values-lo/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "245,351,553,681,786,997,1120,1254,1395,1606,1709,1906,2033,2263,2450,2544,2639",
+                        "endColumns": "105,201,127,104,210,122,133,140,210,102,196,126,229,186,93,94,109",
+                        "endOffsets": "350,552,680,785,996,1119,1253,1394,1605,1708,1905,2032,2262,2449,2543,2638,2748"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,215,417,549,658,869,996,1134,1470,1681,1788,1985,2116,2346,2537,2635,2734",
+                        "endColumns": "109,201,131,108,210,126,137,144,210,106,196,130,229,190,97,98,113",
+                        "endOffsets": "210,412,544,653,864,991,1129,1274,1676,1783,1980,2111,2341,2532,2630,2729,2843"
+                    }
+                },
+                {
+                    "source": "/Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/res/values-lo/values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "29",
+                        "startColumns": "4",
+                        "startOffsets": "3629",
+                        "endColumns": "100",
+                        "endOffsets": "3725"
+                    }
+                }
+            ]
+        }
+    ]
+}

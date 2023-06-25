@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+apply from: "../artifacts.gradle"
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion '31.0.0'
+
+    defaultConfig {
+        applicationId "com.teletype.truckchat"
+        minSdkVersion 16
+        targetSdkVersion 31
+        versionCode 18
+        versionName '1.0.10.9'
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            zipAlignEnabled true
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
+
+dependencies {
+    implementation fileTree(include: ['*.jar'], dir: 'libs')
+    implementation "com.android.support:customtabs:27.1.1"
+    implementation "com.android.support:recyclerview-v7:27.1.1"
+    implementation "com.android.support:support-v4:27.1.1"
+    implementation "com.google.android.gms:play-services-ads:16.0.0"
+    implementation "com.google.android.gms:play-services-gcm:16.0.0"
+    implementation "com.google.android.gms:play-services-location:16.0.0"
+    implementation "com.google.firebase:firebase-messaging:17.3.3"
+}
+apply plugin: 'com.google.gms.google-services'

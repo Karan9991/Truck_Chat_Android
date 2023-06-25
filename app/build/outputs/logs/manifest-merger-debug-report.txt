@@ -1,0 +1,466 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/43274fd4d8ee4528a0f29241ffe97142/transformed/jetified-play-services-ads-16.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.browser:browser:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b5d359abb44dae89bd07031c87981404/transformed/browser-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1bc7579d7cb31eb20a00486a5dd713ac/transformed/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2a20a58285abf9f0843660b0083aa3b8/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f89dd69c9bc42112beb68359a869ff1c/transformed/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e094a8576be69e1eaf3111662cb4c16f/transformed/jetified-play-services-gass-16.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d7441f039a0fdcd8f18bfc4930e4e39a/transformed/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d4ad89c4a8fa93d924df0ce8b54d345f/transformed/jetified-play-services-stats-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/7dfc7e7ce24e60d7b157cbc4983c4dfe/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/cad0b526747a72427bf5e57d22fad49e/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/e9433a8a6ae8acc34bc233227473e695/transformed/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eeaed30e2791f61df3f1fb22bdeef3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/ad85b0441dcb8c76d9c0c66ae859a608/transformed/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/88c686958d81d3620cf1c08d7c0d22e5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e021664a883dd9016836fcdf01f0431e/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/413954f2bbc4ab1911aec8533c4af063/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/27e88ef8c036460c16f8c90c9abd2692/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/69465e8ae158772befaa7461a1ad32ab/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/8794ebe72ccb2be74f6210223cd0f388/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/98b28c06da18dbdfa8248ca623dd622d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a99d2e43fd55851aac9da5105cf3dbd8/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/206ffc38e8500fb2dbc304d661e6d038/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eca70bb7353e38f63f9bc633a891033/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1d2c582b7133b12343a95fb69d6b046d/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0b59976ca61fec2f91d38b2cc7eae02d/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/348a5228c79b0e8548e76b37769e322c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/12454e315d1c21b3c63945928afad157/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/3f892fa3f128b97afb5e21fab99539bf/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/19b19b0f800f2866e3363c111884b8de/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/990f0c75472b95947a6fd3cdc254a142/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f9ca61b601f4ff5efbd60ecae6f07e87/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0f18b56337beb742ac7a821a03615855/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/d36f9746f59faf4611a7beac9003aafa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b2d6dbb98e0dc3551ea8c90b9d4b08f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2804cd501d1fb81fe062c482e6580d00/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/fcb05f6460575b605665d8937efb78d9/transformed/jetified-play-services-ads-base-16.0.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:11-43
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:2:1-99:12
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:4:11-41
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:7:5-66
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:10:22-63
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:11:5-81
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:11:22-79
+application
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:15:5-97:19
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2a20a58285abf9f0843660b0083aa3b8/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2a20a58285abf9f0843660b0083aa3b8/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f89dd69c9bc42112beb68359a869ff1c/transformed/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f89dd69c9bc42112beb68359a869ff1c/transformed/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e094a8576be69e1eaf3111662cb4c16f/transformed/jetified-play-services-gass-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e094a8576be69e1eaf3111662cb4c16f/transformed/jetified-play-services-gass-16.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d7441f039a0fdcd8f18bfc4930e4e39a/transformed/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d7441f039a0fdcd8f18bfc4930e4e39a/transformed/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d4ad89c4a8fa93d924df0ce8b54d345f/transformed/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d4ad89c4a8fa93d924df0ce8b54d345f/transformed/jetified-play-services-stats-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/7dfc7e7ce24e60d7b157cbc4983c4dfe/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/7dfc7e7ce24e60d7b157cbc4983c4dfe/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/cad0b526747a72427bf5e57d22fad49e/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/cad0b526747a72427bf5e57d22fad49e/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/e9433a8a6ae8acc34bc233227473e695/transformed/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/e9433a8a6ae8acc34bc233227473e695/transformed/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/348a5228c79b0e8548e76b37769e322c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/348a5228c79b0e8548e76b37769e322c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/fcb05f6460575b605665d8937efb78d9/transformed/jetified-play-services-ads-base-16.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/fcb05f6460575b605665d8937efb78d9/transformed/jetified-play-services-ads-base-16.0.0/AndroidManifest.xml:22:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:16:9-38
+activity#com.teletype.truckchat.ui.conversations.ConversationsActivity
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:21:9-31:20
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:23:13-45
+	android:launchMode
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:24:13-43
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:25:13-36
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:22:13-67
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:27:17-68
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:29:17-76
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.teletype.truckchat.ui.conversations.NewConversationActivity
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:32:9-39:20
+	android:parentActivityName
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:35:13-81
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:34:13-45
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:33:13-69
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:36:13-38:96
+	android:value
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:38:17-94
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:37:17-63
+activity#com.teletype.truckchat.ui.replies.RepliesActivity
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:40:9-48:20
+	android:parentActivityName
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:43:13-81
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:42:13-45
+	android:windowSoftInputMode
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:44:13-67
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:41:13-55
+activity#com.teletype.truckchat.ui.settings.SettingsPreferenceActivity
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:49:9-51:56
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:51:13-54
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:50:13-67
+activity#com.teletype.truckchat.ui.common.InterWebActivity
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:52:9-54:47
+	android:label
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:54:13-45
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:53:13-55
+provider#com.teletype.truckchat.db.ConversationContentProvider
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:56:9-60:39
+	android:enabled
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:59:13-35
+	android:authorities
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:58:13-80
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:60:13-37
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:57:13-59
+provider#com.teletype.truckchat.db.RoadClosureContentProvider
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:61:9-65:39
+	android:enabled
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:64:13-35
+	android:authorities
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:63:13-80
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:65:13-37
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:62:13-58
+service#com.teletype.truckchat.services.MyFcmListenerService
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:67:9-73:19
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:69:13-36
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:68:13-58
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:70:13-72:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:17-78
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:71:25-75
+service#com.teletype.truckchat.services.MyInstanceIDListenerService
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:74:9-80:19
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:76:13-36
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:75:13-65
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:77:13-79:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:17-80
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:78:25-77
+service#com.teletype.truckchat.services.RegistrationIntentService
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:81:9-83:39
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:83:13-37
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:82:13-63
+service#com.teletype.truckchat.services.LocationUpdateService
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:84:9-87:39
+	android:enabled
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:86:13-35
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:87:13-37
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:85:13-59
+meta-data#com.google.android.gms.version
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:89:9-91:68
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:91:13-66
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:90:13-58
+service#com.teletype.truckchat.services.RoadClosuresIntentService
+ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:93:9-96:19
+	android:exported
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:95:13-37
+	android:name
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml:94:13-63
+uses-sdk
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/43274fd4d8ee4528a0f29241ffe97142/transformed/jetified-play-services-ads-16.0.0/AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/43274fd4d8ee4528a0f29241ffe97142/transformed/jetified-play-services-ads-16.0.0/AndroidManifest.xml:21:5-23:52
+MERGED from [androidx.browser:browser:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b5d359abb44dae89bd07031c87981404/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b5d359abb44dae89bd07031c87981404/transformed/browser-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1bc7579d7cb31eb20a00486a5dd713ac/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1bc7579d7cb31eb20a00486a5dd713ac/transformed/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a8758d1d658a9f5ddd407c8a31df2227/transformed/jetified-play-services-gcm-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2a20a58285abf9f0843660b0083aa3b8/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2a20a58285abf9f0843660b0083aa3b8/transformed/jetified-play-services-location-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f89dd69c9bc42112beb68359a869ff1c/transformed/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f89dd69c9bc42112beb68359a869ff1c/transformed/jetified-play-services-ads-identifier-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e094a8576be69e1eaf3111662cb4c16f/transformed/jetified-play-services-gass-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e094a8576be69e1eaf3111662cb4c16f/transformed/jetified-play-services-gass-16.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/9a594251ff388a8704e1a4fdf79108d7/transformed/jetified-play-services-iid-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d7441f039a0fdcd8f18bfc4930e4e39a/transformed/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d7441f039a0fdcd8f18bfc4930e4e39a/transformed/jetified-firebase-iid-interop-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d4ad89c4a8fa93d924df0ce8b54d345f/transformed/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/d4ad89c4a8fa93d924df0ce8b54d345f/transformed/jetified-play-services-stats-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/7dfc7e7ce24e60d7b157cbc4983c4dfe/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/7dfc7e7ce24e60d7b157cbc4983c4dfe/transformed/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/cad0b526747a72427bf5e57d22fad49e/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/cad0b526747a72427bf5e57d22fad49e/transformed/jetified-play-services-tasks-16.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/e9433a8a6ae8acc34bc233227473e695/transformed/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/e9433a8a6ae8acc34bc233227473e695/transformed/jetified-firebase-measurement-connector-17.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/27140a87778ae62d00b5318a1d628a97/transformed/jetified-play-services-basement-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eeaed30e2791f61df3f1fb22bdeef3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eeaed30e2791f61df3f1fb22bdeef3e/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/ad85b0441dcb8c76d9c0c66ae859a608/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/ad85b0441dcb8c76d9c0c66ae859a608/transformed/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/88c686958d81d3620cf1c08d7c0d22e5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/88c686958d81d3620cf1c08d7c0d22e5/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e021664a883dd9016836fcdf01f0431e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/e021664a883dd9016836fcdf01f0431e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/413954f2bbc4ab1911aec8533c4af063/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/413954f2bbc4ab1911aec8533c4af063/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/27e88ef8c036460c16f8c90c9abd2692/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/27e88ef8c036460c16f8c90c9abd2692/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/69465e8ae158772befaa7461a1ad32ab/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/69465e8ae158772befaa7461a1ad32ab/transformed/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/8794ebe72ccb2be74f6210223cd0f388/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/8794ebe72ccb2be74f6210223cd0f388/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/98b28c06da18dbdfa8248ca623dd622d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/98b28c06da18dbdfa8248ca623dd622d/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a99d2e43fd55851aac9da5105cf3dbd8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/a99d2e43fd55851aac9da5105cf3dbd8/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/206ffc38e8500fb2dbc304d661e6d038/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/206ffc38e8500fb2dbc304d661e6d038/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eca70bb7353e38f63f9bc633a891033/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/4eca70bb7353e38f63f9bc633a891033/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1d2c582b7133b12343a95fb69d6b046d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/1d2c582b7133b12343a95fb69d6b046d/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b04b02d25c8bcbe678e309566877a21e/transformed/core-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0b59976ca61fec2f91d38b2cc7eae02d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0b59976ca61fec2f91d38b2cc7eae02d/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/348a5228c79b0e8548e76b37769e322c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/348a5228c79b0e8548e76b37769e322c/transformed/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/12454e315d1c21b3c63945928afad157/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/12454e315d1c21b3c63945928afad157/transformed/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/3f892fa3f128b97afb5e21fab99539bf/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/3f892fa3f128b97afb5e21fab99539bf/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/19b19b0f800f2866e3363c111884b8de/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/19b19b0f800f2866e3363c111884b8de/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/990f0c75472b95947a6fd3cdc254a142/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/990f0c75472b95947a6fd3cdc254a142/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f9ca61b601f4ff5efbd60ecae6f07e87/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/f9ca61b601f4ff5efbd60ecae6f07e87/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0f18b56337beb742ac7a821a03615855/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/0f18b56337beb742ac7a821a03615855/transformed/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/d36f9746f59faf4611a7beac9003aafa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/d36f9746f59faf4611a7beac9003aafa/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b2d6dbb98e0dc3551ea8c90b9d4b08f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/b2d6dbb98e0dc3551ea8c90b9d4b08f6/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2804cd501d1fb81fe062c482e6580d00/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/2804cd501d1fb81fe062c482e6580d00/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/fcb05f6460575b605665d8937efb78d9/transformed/jetified-play-services-ads-base-16.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/fcb05f6460575b605665d8937efb78d9/transformed/jetified-play-services-ads-base-16.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/43274fd4d8ee4528a0f29241ffe97142/transformed/jetified-play-services-ads-16.0.0/AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		ADDED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/AndroidManifest.xml
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.3] /Users/karandeepsingh/.gradle/caches/transforms-3/74b2ffeeb23b4e0b1e5cdbf98cf14441/transformed/jetified-firebase-messaging-17.3.3/AndroidManifest.xml:29:13-82
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:16.0.0] /Users/karandeepsingh/.gradle/caches/transforms-3/5fca77a7b5480329540ce367c47025e2/transformed/jetified-play-services-ads-lite-16.0.0/AndroidManifest.xml:30:13-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:30:13-84
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/d639207e67644efbda272d799b61847a/transformed/jetified-firebase-iid-17.0.3/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/karandeepsingh/.gradle/caches/transforms-3/870877336bbcd0b26322f6837ad4c762/transformed/jetified-play-services-base-16.0.1/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.3] /Users/karandeepsingh/.gradle/caches/transforms-3/b6a67199b62cbf211469ac04763a2161/transformed/jetified-firebase-common-16.0.3/AndroidManifest.xml:11:13-77

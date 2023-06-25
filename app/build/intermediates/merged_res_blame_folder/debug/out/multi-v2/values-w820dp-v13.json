@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.teletype.truckchat.app-mergeDebugResources-15:/values-w820dp-v13/values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/karandeepsingh/Downloads/May/Android-TruckChat/app/src/main/res/values-w820dp/dimens.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "291,349",
+                        "endColumns": "57,62",
+                        "endOffsets": "344,407"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,62",
+                        "endOffsets": "108,171"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,38 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ReplyActivity">
+
+    <item
+        android:id="@+id/action_star"
+        android:icon="@drawable/ic_action_not_important"
+        android:orderInCategory="10"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_star"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/action_unstar"
+        android:icon="@drawable/ic_action_important"
+        android:orderInCategory="11"
+        android:showAsAction="ifRoom"
+        android:title="@string/action_unstar"
+        android:visible="false" />
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/action_settings" />
+
+    <item
+        android:id="@+id/action_tell_a_friend"
+        android:orderInCategory="101"
+        android:showAsAction="never"
+        android:title="@string/action_tell_a_friend" />
+
+    <item
+        android:id="@+id/action_help"
+        android:orderInCategory="102"
+        android:showAsAction="never"
+        android:title="@string/action_help" />
+</menu>

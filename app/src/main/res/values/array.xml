@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="avatars">
+        <item>@drawable/if_adium_49043</item>
+        <item>@drawable/driver_1</item>
+        <item>@drawable/if_b02</item>
+        <item>@drawable/if_co1</item>
+        <item>@drawable/if_cattle_tuck_88245</item>
+        <item>@drawable/if_daf_girder_truck</item>
+        <item>@drawable/if_daf_tiper</item>
+        <item>@drawable/if_fa03</item>
+        <item>@drawable/if_fd</item>
+        <item>@drawable/if_fe05</item>
+        <item>@drawable/if_fi01</item>
+        <item>@drawable/if_fire_escape</item>
+        <item>@drawable/if_foden_concrete_tuck</item>
+        <item>@drawable/if_h05_</item>
+        <item>@drawable/if_jo1</item>
+        <item>@drawable/if_lorry_green</item>
+        <item>@drawable/if_tractor_unit_black_22998</item>
+        <item>@drawable/if_truck_yellow</item>
+        <item>@drawable/if_ambulance_45490</item>
+        <item>@drawable/if_bus_front_01_1988879</item>
+        <item>@drawable/if_bus_47405</item>
+        <item>@drawable/if_coraline_49044</item>
+        <item>@drawable/if_diagram_v2_32_37152</item>
+        <item>@drawable/if_evernote_49045</item>
+        <item>@drawable/if_firefox_49046</item>
+        <item>@drawable/if_freebsd_49049</item>
+        <item>@drawable/if_freebsd_daemon_386463</item>
+        <item>@drawable/if_guard_45502</item>
+        <item>@drawable/if_linux_tox_386476</item>
+        <item>@drawable/if_monkeys_audio_49052</item>
+        <item>@drawable/if_nike_37862</item>
+        <item>@drawable/if_policeman_45483</item>
+        <item>@drawable/if_receptionist_45441</item>
+        <item>@drawable/if_rocket_406798</item>
+        <item>@drawable/if_school_bus_44999</item>
+        <item>@drawable/if_transportation_service_45471</item>
+        <item>@drawable/if_truck_back_03_2140057</item>
+        <item>@drawable/if_truck_front_01_1988878</item>
+        <item>@drawable/if_truck_37865</item>
+        <item>@drawable/if_truck_44870</item>
+        <item>@drawable/if_truck_45435</item>
+        <item>@drawable/if_twitter_49054</item>
+        <item>@drawable/girls_female_woman_pers</item>
+        <item>@drawable/head_medical_man_avatar</item>
+        <item>@drawable/icons8</item>
+        <item>@drawable/icons8_semi_truck_50</item>
+        <item>@drawable/police_avatar_person</item>
+        <item>@drawable/police_wome</item>
+
+    </integer-array>
+</resources>

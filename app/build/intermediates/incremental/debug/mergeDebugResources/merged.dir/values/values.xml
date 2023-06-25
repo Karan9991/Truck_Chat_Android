@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="action_select_all_read_unread">
+        <item>@string/action_mark_all_as_read</item>
+        <item>@string/action_mark_all_as_unread</item>
+    </string-array>
+    <string-array name="action_star_read">
+        <item>@string/action_star_chat</item>
+        <item>@string/action_mark_as_read</item>
+    </string-array>
+    <string-array name="action_star_unread">
+        <item>@string/action_star_chat</item>
+        <item>@string/action_mark_as_unread</item>
+    </string-array>
+    <string-array name="action_unstar_read">
+        <item>@string/action_unstar_chat</item>
+        <item>@string/action_mark_as_read</item>
+    </string-array>
+    <string-array name="action_unstar_unread">
+        <item>@string/action_unstar_chat</item>
+        <item>@string/action_mark_as_unread</item>
+    </string-array>
+    <integer-array name="avatars">
+        <item>@drawable/if_adium_49043</item>
+        <item>@drawable/driver_1</item>
+        <item>@drawable/if_b02</item>
+        <item>@drawable/if_co1</item>
+        <item>@drawable/if_cattle_tuck_88245</item>
+        <item>@drawable/if_daf_girder_truck</item>
+        <item>@drawable/if_daf_tiper</item>
+        <item>@drawable/if_fa03</item>
+        <item>@drawable/if_fd</item>
+        <item>@drawable/if_fe05</item>
+        <item>@drawable/if_fi01</item>
+        <item>@drawable/if_fire_escape</item>
+        <item>@drawable/if_foden_concrete_tuck</item>
+        <item>@drawable/if_h05_</item>
+        <item>@drawable/if_jo1</item>
+        <item>@drawable/if_lorry_green</item>
+        <item>@drawable/if_tractor_unit_black_22998</item>
+        <item>@drawable/if_truck_yellow</item>
+        <item>@drawable/if_ambulance_45490</item>
+        <item>@drawable/if_bus_front_01_1988879</item>
+        <item>@drawable/if_bus_47405</item>
+        <item>@drawable/if_coraline_49044</item>
+        <item>@drawable/if_diagram_v2_32_37152</item>
+        <item>@drawable/if_evernote_49045</item>
+        <item>@drawable/if_firefox_49046</item>
+        <item>@drawable/if_freebsd_49049</item>
+        <item>@drawable/if_freebsd_daemon_386463</item>
+        <item>@drawable/if_guard_45502</item>
+        <item>@drawable/if_linux_tox_386476</item>
+        <item>@drawable/if_monkeys_audio_49052</item>
+        <item>@drawable/if_nike_37862</item>
+        <item>@drawable/if_policeman_45483</item>
+        <item>@drawable/if_receptionist_45441</item>
+        <item>@drawable/if_rocket_406798</item>
+        <item>@drawable/if_school_bus_44999</item>
+        <item>@drawable/if_transportation_service_45471</item>
+        <item>@drawable/if_truck_back_03_2140057</item>
+        <item>@drawable/if_truck_front_01_1988878</item>
+        <item>@drawable/if_truck_37865</item>
+        <item>@drawable/if_truck_44870</item>
+        <item>@drawable/if_truck_45435</item>
+        <item>@drawable/if_twitter_49054</item>
+        <item>@drawable/girls_female_woman_pers</item>
+        <item>@drawable/head_medical_man_avatar</item>
+        <item>@drawable/icons8</item>
+        <item>@drawable/icons8_semi_truck_50</item>
+        <item>@drawable/police_avatar_person</item>
+        <item>@drawable/police_wome</item>
+
+    </integer-array>
+    <string-array name="tab_titles">
+        <item>@string/tab_titles1</item>
+        <item>@string/tab_titles2</item>
+        <item>@string/tab_titles3</item>
+        <item>@string/tab_titles4</item>
+        <item>@string/tab_titles5</item>
+    </string-array>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <color name="browser_actions_bg_grey">#F5F5F5</color>
+    <color name="browser_actions_divider_color">#1E000000</color>
+    <color name="browser_actions_text_color">#DE000000</color>
+    <color name="browser_actions_title_color">#646464</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <color name="tt_color_background">#4b9ede</color>
+    <color name="tt_color_background_complement">#ffc947</color>
+    <color name="tt_color_background_dark">#46260b</color>
+    <color name="tt_color_background_light">#98d1fd</color>
+    <color name="tt_color_background_light_complement">#fdd198</color>
+    <color name="tt_color_text">#196dae</color>
+    <color name="tt_color_text_complement">#ae6d19</color>
+    <color name="tt_color_text_dark">#3a3a3a</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_horizontal_margin_half">8dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin_half">8dp</dimen>
+    <dimen name="browser_actions_context_menu_max_width">500dp</dimen>
+    <dimen name="browser_actions_context_menu_min_padding">20dp</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="fastscroll_default_thickness">8dp</dimen>
+    <dimen name="fastscroll_margin">0dp</dimen>
+    <dimen name="fastscroll_minimum_range">50dp</dimen>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
+    <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="subtitle_corner_radius">2dp</dimen>
+    <dimen name="subtitle_outline_width">2dp</dimen>
+    <dimen name="subtitle_shadow_offset">2dp</dimen>
+    <dimen name="subtitle_shadow_radius">2dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="google_play_services_version">12451000</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <string name="about_agree">I Agree</string>
+    <string name="about_contact"><a href="http://truckchatapp.com/index.html#Contact">Contact us</a></string>
+    <string name="about_copyright">©TeleType Co. All Rights Reserved</string>
+    <string name="about_description">LIVE CHAT WITH FELLOW COMMERCIAL DRIVERS IN YOUR AREA.\nIT\'S LIKE HAVING A DIGITAL CB AT NO COST.</string>
+    <string name="about_description2">Totally FREE app, no hidden fees.\nPlease support our Sponsors.</string>
+    <string name="about_disagree">Exit</string>
+    <string name="about_legal_notices">Legal Notices</string>
+    <string name="about_serial">Serial#\n%s</string>
+    <string name="about_tell_a_friend"><a href="http://truckchatapp.com/tellafriend">Tell a friend</a></string>
+    <string name="about_tell_a_friend_mail_body">I am using TruckChat right now, check it out at:\n\nhttp://play.google.com/store/apps/details?id=com.teletype.truckchat\n\nhttp://truckchatapp.com</string>
+    <string name="about_tell_a_friend_mail_choose">Email your friend using:</string>
+    <string name="about_tell_a_friend_mail_subject">Check out TruckChat</string>
+    <string name="about_tos">Terms of Service</string>
+    <string name="about_tos_agree">By pressing the <b>\"I Agree\"</b> button you agree to these terms."</string>
+    <string name="about_tos_body">This app is provided as a free service for trucking professionals.\n\nWe want the commercial truck driving community to have a pleasant and useful experience using the free TruckChat app, so that means no posting of explicit or offensive content. More specifically: no porn, no racism, no homophobia, no threats, no abuse, no bullying, no profanity, no sexual advances, no solicitation or personal services. No advertising of your business (unless you are a paying Sponsor of the app with written permission from the developer).\n\nIf we feel you are violating these terms, we can remove your content and/or delete your profile without question. We encourage checking with drivers about weather, traffic, parking, company reviews, delivery discussions between drivers and dispatchers."</string>
+    <string name="about_version">Version %s</string>
+    <string name="about_visit"><a href="http://truckchatapp.com">Visit the website</a></string>
+    <string name="action_help">Help</string>
+    <string name="action_mark_all_as_read"><b>Mark all as read</b>\n<i>The \'New Message\' icon will be removed for all current chats.</i></string>
+    <string name="action_mark_all_as_unread"><b>Mark all as unread</b>\n<i>Unread chats will appear in bold with a \'New Message\' icon.</i></string>
+    <string name="action_mark_as_read"><b>Mark this chat as read</b>\n<i>The \'New Message\' icon will be removed.</i></string>
+    <string name="action_mark_as_unread"><b>Mark this chat as unread</b>\n<i>Unread chats will appear in bold with a \'New Message\' icon.</i></string>
+    <string name="action_new_conversation">New Conversation</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_retry">Retry</string>
+    <string name="action_select_all">Select All Chats</string>
+    <string name="action_send">Send</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_star">Star Chat</string>
+    <string name="action_star_chat"><b>Star this chat</b>\n<i>Chats that are starred will not be removed after 1 day of inactivity.</i></string>
+    <string name="action_tell_a_friend">Tell a Friend</string>
+    <string name="action_unstar">Remove Star</string>
+    <string name="action_unstar_chat"><b>Un-star this chat</b>\n<i>Chats that are not starred will be removed after 1 day of inactivity.</i></string>
+    <string name="admob_id_conversations_activity">ca-app-pub-7181343877669077/2906570549</string>
+    <string name="admob_id_full_screen">ca-app-pub-7181343877669077/9813069201</string>
+    <string name="admob_id_news">ca-app-pub-7181343877669077/9511572835</string>
+    <string name="admob_id_replies_activity">ca-app-pub-7181343877669077/5860036948</string>
+    <string name="app_name">TruckChat</string>
+    <string name="app_name_settings">TruckChat settings</string>
+    <string name="app_name_with_handle">TruckChat (%s)</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Install</string>
+    <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_notification_channel_name">Google Play services availability</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="compose_message">Compose message</string>
+    <string name="compose_topic">Compose a new topic</string>
+    <string name="default_web_client_id" translatable="false">609337871587-vqbmb9al75kncp3smovabrsvf48nturf.apps.googleusercontent.com</string>
+    <string name="enable_data_services">Open Wireless &amp; Network System Settings?</string>
+    <string name="enable_data_services_desc">An Internet connection is required. </string>
+    <string name="enable_location_services">Open Location Services System Settings?</string>
+    <string name="enable_location_services_desc">Approximate location determined by Wi-Fi or mobile networks is required.</string>
+    <string name="error_chatservices_connecting">There was an error logging into the Chat Service.</string>
+    <string name="error_googleplayservices_connecting">There was an error connecting to Google Play Services.</string>
+    <string name="error_googleplayservices_requires">This app requires a valid version of Google Play Services.</string>
+    <string name="error_interweb">Error displaying web page</string>
+    <string name="error_location_services_unavailable">Location services are unavailable or turned off.</string>
+    <string name="error_location_unavailable">Please wait while your location is being determined.</string>
+    <string name="error_no_email">Unable to start your email app.</string>
+    <string name="error_retry">Retry</string>
+    <string name="error_send_error">Unable to send your message, please try again later.</string>
+    <string name="error_speech_error">Speech to text is not supported on this device.</string>
+    <string name="fcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="firebase_database_url" translatable="false">https://truckchat-2aaaf.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">609337871587</string>
+    <string name="gcm_fallback_notification_channel_label">Miscellaneous</string>
+    <string name="google_api_key" translatable="false">AIzaSyCRAGtH0UyEUnfEdRBFlPuoXaFgJRY5svM</string>
+    <string name="google_app_id" translatable="false">1:609337871587:android:a2e52014c5cea00a</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCRAGtH0UyEUnfEdRBFlPuoXaFgJRY5svM</string>
+    <string name="indefinitely">indefinitely</string>
+    <string name="last_active">Last active: %s</string>
+    <string name="locale">%1$s, %2$s</string>
+    <string name="no_conversations">No conversations currently</string>
+    <string name="num_replies">Replies: %s</string>
+    <string name="pending_messages_text">Tap here to open TruckChat</string>
+    <string name="pending_messages_title">There are new messages!</string>
+    <string name="permissions_location">Allowing access to this device\'s coarse location is required for location based chats to function correctly.</string>
+    <string name="permissions_location_manual">You have previously selected the checkbox to \"Never ask again\" for allowing access to this device\'s location.\n\nIf this was done in error, please tap Retry to open the App Info screen and go into the Permissions section to enable the Location permission.\n\nLocation based chat will not function correctly if allowing access to this device\'s location is not granted.</string>
+    <string name="posted_on">Posted on</string>
+    <string name="pref_format_handle">%s: </string>
+    <string name="pref_header_about">About</string>
+    <string name="pref_header_messages">Messages</string>
+    <string name="pref_header_notifications">Notifications &amp; Sound</string>
+    <string name="pref_summary_chat_tone_off">Sounds are silenced for incoming and outgoing messages.</string>
+    <string name="pref_summary_chat_tone_on">Plays a sound for incoming and outgoing messages.</string>
+    <string name="pref_summary_handle">Prepend your messages with \"%s\"</string>
+    <string name="pref_summary_handle_default">Prepend your messages with a handle\n(Handles are not unique for each user).</string>
+    <string name="pref_summary_notification_off">Notifications are not shown.</string>
+    <string name="pref_summary_notification_on">Notifications are shown for new messages when the app is not running.</string>
+    <string name="pref_summary_notification_ringtone_default_alarm">Notification messages will play the default system alarm sound.</string>
+    <string name="pref_summary_notification_ringtone_default_notification">Notification messages will play the default system notification sound.</string>
+    <string name="pref_summary_notification_ringtone_default_ringtone">Notification messages will play the default system ringtone.</string>
+    <string name="pref_summary_notification_ringtone_off">Notification messages will not play any sounds.</string>
+    <string name="pref_summary_notification_ringtone_on">Notification messages will play the following ringtone:\n%s</string>
+    <string name="pref_summary_notification_vibrate_off">Notification messages will not vibrate the device.</string>
+    <string name="pref_summary_notification_vibrate_on">Notification messages will vibrate the device.</string>
+    <string name="pref_title_chat_tone">Chat tones</string>
+    <string name="pref_title_handle">Chat Handle</string>
+    <string name="pref_title_notification">Notifications</string>
+    <string name="pref_title_notification_ringtone">Notification tone</string>
+    <string name="pref_title_notification_vibrate">Vibrate</string>
+    <string name="project_id" translatable="false">truckchat-2aaaf</string>
+    <string name="s1">Save image</string>
+    <string name="s2">"Allow Ad to store image in Picture gallery?"</string>
+    <string name="s3">Accept</string>
+    <string name="s4">Decline</string>
+    <string name="s5">Create calendar event</string>
+    <string name="s6">Allow Ad to create a calendar event?</string>
+    <string name="s7">Test Ad</string>
+    <string name="select_avatar">Choose Avatar</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="tab_titles1">News</string>
+    <string name="tab_titles2">Chats</string>
+    <string name="tab_titles3">Sponsors</string>
+    <string name="tab_titles4">Reviews</string>
+    <string name="tab_titles5">Starred</string>
+    <string name="until">until %s</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:homeAsUpIndicator">@drawable/ic_action_back</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar.Solid">
+        <item name="android:background">@color/tt_color_background_complement</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="Theme.IAPTheme" parent="android:Theme">
+<item name="android:windowIsFloating">true</item>
+<item name="android:windowBackground">@android:color/transparent</item>
+<item name="android:windowContentOverlay">@null</item>
+<item name="android:windowNoTitle">true</item>
+<item name="android:backgroundDimEnabled">false</item>
+<item name="android:windowIsTranslucent">true</item>
+</style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <declare-styleable name="AdsAttrs">
+<attr format="string" name="adSize"/>
+
+<attr format="string" name="adSizes"/>
+
+<attr format="string" name="adUnitId"/>
+</declare-styleable>
+    <declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            <!-- Push object to the top of its container, not changing its size. -->
+            <flag name="top" value="0x30"/>
+            <!-- Push object to the bottom of its container, not changing its size. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Push object to the left of its container, not changing its size. -->
+            <flag name="left" value="0x03"/>
+            <!-- Push object to the right of its container, not changing its size. -->
+            <flag name="right" value="0x05"/>
+            <!-- Place object in the vertical center of its container, not changing its size. -->
+            <flag name="center_vertical" value="0x10"/>
+            <!-- Grow the vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill_vertical" value="0x70"/>
+            <!-- Place object in the horizontal center of its container, not changing its size. -->
+            <flag name="center_horizontal" value="0x01"/>
+            <!-- Grow the horizontal size of the object if needed so it completely fills its container. -->
+            <flag name="fill_horizontal" value="0x07"/>
+            <!-- Place the object in the center of its container in both the vertical and horizontal axis, not changing its size. -->
+            <flag name="center" value="0x11"/>
+            <!-- Grow the horizontal and vertical size of the object if needed so it completely fills its container. -->
+            <flag name="fill" value="0x77"/>
+            <!-- Additional option that can be set to have the top and/or bottom edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the vertical gravity: a top gravity will clip the bottom
+                 edge, a bottom gravity will clip the top edge, and neither will clip both edges. -->
+            <flag name="clip_vertical" value="0x80"/>
+            <!-- Additional option that can be set to have the left and/or right edges of
+                 the child clipped to its container's bounds.
+                 The clip will be based on the horizontal gravity: a left gravity will clip the right
+                 edge, a right gravity will clip the left edge, and neither will clip both edges. -->
+            <flag name="clip_horizontal" value="0x08"/>
+            <!-- Push object to the beginning of its container, not changing its size. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Push object to the end of its container, not changing its size. -->
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            <!-- Don't inset. -->
+            <enum name="none" value="0x0"/>
+            <!-- Inset the top edge. -->
+            <enum name="top" value="0x30"/>
+            <!-- Inset the bottom edge. -->
+            <enum name="bottom" value="0x50"/>
+            <!-- Inset the left edge. -->
+            <enum name="left" value="0x03"/>
+            <!-- Inset the right edge. -->
+            <enum name="right" value="0x05"/>
+            <!-- Inset the start edge. -->
+            <enum name="start" value="0x00800003"/>
+            <!-- Inset the end edge. -->
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            <!-- Don't dodge any edges -->
+            <flag name="none" value="0x0"/>
+            <!-- Dodge the top inset edge. -->
+            <flag name="top" value="0x30"/>
+            <!-- Dodge the bottom inset edge. -->
+            <flag name="bottom" value="0x50"/>
+            <!-- Dodge the left inset edge. -->
+            <flag name="left" value="0x03"/>
+            <!-- Dodge the right inset edge. -->
+            <flag name="right" value="0x05"/>
+            <!-- Dodge the start inset edge. -->
+            <flag name="start" value="0x00800003"/>
+            <!-- Dodge the end inset edge. -->
+            <flag name="end" value="0x00800005"/>
+            <!-- Dodge all the inset edges. -->
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            <!-- The blocking font fetch works as follows.
+              First, check the local cache, then if the requested font is not cached, request the
+              font from the provider and wait until it is finished.  You can change the length of
+              the timeout by modifying fontProviderFetchTimeout.  If the timeout happens, the
+              default typeface will be used instead. -->
+            <enum name="blocking" value="0"/>
+            <!-- The async font fetch works as follows.
+              First, check the local cache, then if the requeted font is not cached, trigger a
+              request the font and continue with layout inflation. Once the font fetch succeeds, the
+              target text view will be refreshed with the downloaded font data. The
+              fontProviderFetchTimeout will be ignored if async loading is specified. -->
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            <!-- A special value for the timeout. In this case, the blocking font fetching will not
+              timeout and wait until a reply is received from the font provider. -->
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="LoadingImageView"><attr name="imageAspectRatioAdjust">
+<enum name="none" value="0"/>
+
+<enum name="adjust_width" value="1"/>
+
+<enum name="adjust_height" value="2"/>
+
+</attr>
+
+<attr format="float" name="imageAspectRatio"/>
+
+<attr format="boolean" name="circleCrop"/>
+</declare-styleable>
+    <declare-styleable name="RecyclerView">
+        
+        <attr format="string" name="layoutManager"/>
+
+        
+        
+        
+        <eat-comment/>
+
+        <attr name="android:orientation"/>
+        <attr name="android:descendantFocusability"/>
+        <attr format="integer" name="spanCount"/>
+        <attr format="boolean" name="reverseLayout"/>
+        <attr format="boolean" name="stackFromEnd"/>
+        <attr format="boolean" name="fastScrollEnabled"/>
+        <attr format="reference" name="fastScrollVerticalThumbDrawable"/>
+        <attr format="reference" name="fastScrollVerticalTrackDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalThumbDrawable"/>
+        <attr format="reference" name="fastScrollHorizontalTrackDrawable"/>
+    </declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference" name="buttonSize">
+<enum name="standard" value="0"/>
+
+<enum name="wide" value="1"/>
+
+<enum name="icon_only" value="2"/>
+
+</attr>
+<attr format="reference" name="colorScheme">
+<enum name="dark" value="0"/>
+
+<enum name="light" value="1"/>
+
+<enum name="auto" value="2"/>
+
+</attr>
+
+<attr format="reference|string" name="scopeUris"/>
+</declare-styleable>
+</resources>

@@ -1,0 +1,148 @@
+<resources>
+    <string name="app_name">TruckChat</string>
+    <string name="app_name_with_handle">TruckChat (%s)</string>
+    <string name="app_name_settings">TruckChat settings</string>
+    <string name="admob_id_conversations_activity">ca-app-pub-7181343877669077/2906570549</string>
+    <string name="admob_id_replies_activity">ca-app-pub-7181343877669077/5860036948</string>
+    <string name="admob_id_full_screen">ca-app-pub-7181343877669077/9813069201</string>
+    <string name="admob_id_news">ca-app-pub-7181343877669077/9511572835</string>
+
+    <string-array name="tab_titles">
+        <item>@string/tab_titles1</item>
+        <item>@string/tab_titles2</item>
+        <item>@string/tab_titles3</item>
+        <item>@string/tab_titles4</item>
+        <item>@string/tab_titles5</item>
+    </string-array>
+
+    <string-array name="action_select_all_read_unread">
+        <item>@string/action_mark_all_as_read</item>
+        <item>@string/action_mark_all_as_unread</item>
+    </string-array>
+
+    <string-array name="action_star_read">
+        <item>@string/action_star_chat</item>
+        <item>@string/action_mark_as_read</item>
+    </string-array>
+
+    <string-array name="action_star_unread">
+        <item>@string/action_star_chat</item>
+        <item>@string/action_mark_as_unread</item>
+    </string-array>
+
+    <string-array name="action_unstar_read">
+        <item>@string/action_unstar_chat</item>
+        <item>@string/action_mark_as_read</item>
+    </string-array>
+
+    <string-array name="action_unstar_unread">
+        <item>@string/action_unstar_chat</item>
+        <item>@string/action_mark_as_unread</item>
+    </string-array>
+
+    <string name="action_select_all">Select All Chats</string>
+    <string name="action_star">Star Chat</string>
+    <string name="action_unstar">Remove Star</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_tell_a_friend">Tell a Friend</string>
+    <string name="action_help">Help</string>
+    <string name="action_new_conversation">New Conversation</string>
+    <string name="action_send">Send</string>
+    <string name="action_quit">Quit</string>
+    <string name="action_retry">Retry</string>
+
+    <string name="action_mark_all_as_read"><b>Mark all as read</b>\n<i>The \'New Message\' icon will be removed for all current chats.</i></string>
+    <string name="action_mark_all_as_unread"><b>Mark all as unread</b>\n<i>Unread chats will appear in bold with a \'New Message\' icon.</i></string>
+    <string name="action_star_chat"><b>Star this chat</b>\n<i>Chats that are starred will not be removed after 1 day of inactivity.</i></string>
+    <string name="action_mark_as_read"><b>Mark this chat as read</b>\n<i>The \'New Message\' icon will be removed.</i></string>
+    <string name="action_mark_as_unread"><b>Mark this chat as unread</b>\n<i>Unread chats will appear in bold with a \'New Message\' icon.</i></string>
+    <string name="action_unstar_chat"><b>Un-star this chat</b>\n<i>Chats that are not starred will be removed after 1 day of inactivity.</i></string>
+
+    <string name="error_googleplayservices_requires">This app requires a valid version of Google Play Services.</string>
+    <string name="error_googleplayservices_connecting">There was an error connecting to Google Play Services.</string>
+    <string name="error_chatservices_connecting">There was an error logging into the Chat Service.</string>
+
+    <string name="error_retry">Retry</string>
+    <string name="error_location_services_unavailable">Location services are unavailable or turned off.</string>
+    <string name="error_location_unavailable">Please wait while your location is being determined.</string>
+    <string name="error_send_error">Unable to send your message, please try again later.</string>
+    <string name="error_speech_error">Speech to text is not supported on this device.</string>
+    <string name="error_interweb">Error displaying web page</string>
+    <string name="error_no_email">Unable to start your email app.</string>
+
+    <string name="enable_location_services">Open Location Services System Settings?</string>
+    <string name="enable_location_services_desc">Approximate location determined by Wi-Fi or mobile networks is required.</string>
+
+    <string name="enable_data_services">Open Wireless &amp; Network System Settings?</string>
+    <string name="enable_data_services_desc">An Internet connection is required. </string>
+
+    <string name="tab_titles1">News</string>
+    <string name="tab_titles2">Chats</string>
+    <string name="tab_titles3">Sponsors</string>
+    <string name="tab_titles4">Reviews</string>
+    <string name="tab_titles5">Starred</string>
+
+    <string name="no_conversations">No conversations currently</string>
+    <string name="last_active">Last active: %s</string>
+    <string name="num_replies">Replies: %s</string>
+    <string name="compose_topic">Compose a new topic</string>
+    <string name="compose_message">Compose message</string>
+    <string name="pending_messages_title">There are new messages!</string>
+    <string name="pending_messages_text">Tap here to open TruckChat</string>
+    <string name="locale">%1$s, %2$s</string>
+    <string name="indefinitely">indefinitely</string>
+    <string name="until">until %s</string>
+
+    <string name="about_description">LIVE CHAT WITH FELLOW COMMERCIAL DRIVERS IN YOUR AREA.\nIT\'S LIKE HAVING A DIGITAL CB AT NO COST.</string>
+    <string name="about_description2">Totally FREE app, no hidden fees.\nPlease support our Sponsors.</string>
+    <string name="about_copyright">&#169;TeleType Co. All Rights Reserved</string>
+    <string name="about_version">Version %s</string>
+    <string name="about_serial">Serial#\n%s</string>
+    <string name="about_visit"><a href="http://truckchatapp.com">Visit the website</a></string>
+    <string name="about_contact"><a href="http://truckchatapp.com/index.html#Contact">Contact us</a></string>
+    <string name="about_tell_a_friend"><a href="http://truckchatapp.com/tellafriend">Tell a friend</a></string>
+    <string name="about_tell_a_friend_mail_subject">Check out TruckChat</string>
+    <string name="about_tell_a_friend_mail_body">I am using TruckChat right now, check it out at:\n\nhttp://play.google.com/store/apps/details?id=com.teletype.truckchat\n\nhttp://truckchatapp.com</string>
+    <string name="about_tell_a_friend_mail_choose">Email your friend using:</string>
+    <string name="about_legal_notices">Legal Notices</string>
+    <string name="about_tos">Terms of Service</string>
+    <string name="about_tos_body">This app is provided as a free service for trucking professionals.\n\nWe want the commercial truck driving community to have a pleasant and useful experience using the free TruckChat app, so that means no posting of explicit or offensive content. More specifically: no porn, no racism, no homophobia, no threats, no abuse, no bullying, no profanity, no sexual advances, no solicitation or personal services. No advertising of your business (unless you are a paying Sponsor of the app with written permission from the developer).\n\nIf we feel you are violating these terms, we can remove your content and/or delete your profile without question. We encourage checking with drivers about weather, traffic, parking, company reviews, delivery discussions between drivers and dispatchers."</string>
+    <string name="about_tos_agree">By pressing the <b>\"I Agree\"</b> button you agree to these terms."</string>
+    <string name="about_agree">I Agree</string>
+    <string name="about_disagree">Exit</string>
+
+    <string name="pref_header_messages">Messages</string>
+    <string name="pref_header_notifications">Notifications &amp; Sound</string>
+    <string name="pref_header_about">About</string>
+
+    <string name="pref_format_handle">%s:&#160;</string>
+    <string name="pref_title_handle">Chat Handle</string>
+    <string name="pref_summary_handle_default">Prepend your messages with a handle\n(Handles are not unique for each user).</string>
+    <string name="pref_summary_handle">Prepend your messages with \"%s\"</string>
+
+    <string name="pref_title_chat_tone">Chat tones</string>
+    <string name="pref_summary_chat_tone_on">Plays a sound for incoming and outgoing messages.</string>
+    <string name="pref_summary_chat_tone_off">Sounds are silenced for incoming and outgoing messages.</string>
+
+    <string name="pref_title_notification">Notifications</string>
+    <string name="pref_summary_notification_on">Notifications are shown for new messages when the app is not running.</string>
+    <string name="pref_summary_notification_off">Notifications are not shown.</string>
+
+    <string name="pref_title_notification_ringtone">Notification tone</string>
+    <string name="pref_summary_notification_ringtone_on">Notification messages will play the following ringtone:\n%s</string>
+    <string name="pref_summary_notification_ringtone_off">Notification messages will not play any sounds.</string>
+    <string name="pref_summary_notification_ringtone_default_alarm">Notification messages will play the default system alarm sound.</string>
+    <string name="pref_summary_notification_ringtone_default_notification">Notification messages will play the default system notification sound.</string>
+    <string name="pref_summary_notification_ringtone_default_ringtone">Notification messages will play the default system ringtone.</string>
+
+    <string name="pref_title_notification_vibrate">Vibrate</string>
+    <string name="pref_summary_notification_vibrate_on">Notification messages will vibrate the device.</string>
+    <string name="pref_summary_notification_vibrate_off">Notification messages will not vibrate the device.</string>
+
+    <string name="permissions_location">Allowing access to this device\'s coarse location is required for location based chats to function correctly.</string>
+    <string name="permissions_location_manual">You have previously selected the checkbox to \"Never ask again\" for allowing access to this device\'s location.\n\nIf this was done in error, please tap Retry to open the App Info screen and go into the Permissions section to enable the Location permission.\n\nLocation based chat will not function correctly if allowing access to this device\'s location is not granted.</string>
+    <string name="select_avatar">Choose Avatar</string>
+
+    <string name="posted_on">Posted on</string>
+
+</resources>

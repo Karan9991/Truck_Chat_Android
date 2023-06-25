@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tt_color_background">#4b9ede</color>
+    <color name="tt_color_background_complement">#ffc947</color>
+    <color name="tt_color_background_light">#98d1fd</color>
+    <color name="tt_color_background_light_complement">#fdd198</color>
+    <color name="tt_color_background_dark">#46260b</color>
+    <color name="tt_color_text">#196dae</color>
+    <color name="tt_color_text_complement">#ae6d19</color>
+    <color name="tt_color_text_dark">#3a3a3a</color>
+</resources>
